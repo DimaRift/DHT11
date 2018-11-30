@@ -6,5 +6,6 @@
 </head>
 <body>
 <h1>Température</h1>
+<img src="img/thermometer.jpg">
 </body>
 </html>
